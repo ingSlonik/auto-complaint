@@ -16,7 +16,7 @@ Minus time for correcting it, what is approximately 10% of time (Almost nobody c
 
 That means that you can **save half of time** with writing messages.
 
-Count of the complaints `5`.
+Count of the complaints `16`.
 
 ## Try it
 
