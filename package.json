@@ -1,0 +1,15 @@
+{
+  "name": "auto-complaint",
+  "version": "0.1.0",
+  "description": "Auto completing tool for complaints.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "auto",
+    "complaining"
+  ],
+  "author": "Filip Paulu",
+  "license": "MIT"
+}
