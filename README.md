@@ -12,7 +12,7 @@ The average of long sentence is around 30 letters.
 When the people find complaint what they want after writing one word, what is around 7 letters plus choosing the correct complaint.
 Minus time for correcting it, what is approximately 10% of time (Almost nobody correct it).
 
-$$ 1 - ((7 + 3) / 30) 1.1 0.7 = 0.51 (51%) $$
+![Formula](https://latex.codecogs.com/svg.latex?[1-\frac{7+3}{30}]*1.1*0.7=0.51)
 
 That means that you can **save half of time** with writing messages.
 
